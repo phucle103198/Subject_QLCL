@@ -1,0 +1,13 @@
+Các bạn cần cài thư viện sau:
+
+
+install.packages("randomForest")
+install.packages("devtools")
+devtools::install_github("ggobi/ggally")
+install.packages("GGally")
+install.packages("factoextra")
+install.packages("caret")
+install.package("ggplot2")
+install.package("FactoMineR")
+install.package("dplyr")
+
